@@ -160,7 +160,7 @@ graph TD
 
 <p align="center">
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/YourUsername/count.svg" />
+  <img src="https://profile-counter.glitch.me/mitkow7/count.svg" />
 </p>
 
 *"The quieter you become, the more you can hear."* - Kali Linux
