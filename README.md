@@ -18,7 +18,7 @@
 class EthicalHacker:
     def __init__(self):
         self.name = "mitkow7"
-        self.role = "Red Team Operator | Python Developer"
+        self.role = "Student"
         self.language_spoken = ["en_US", "Python", "Bash", "PowerShell"]
         self.specializations = [
             "Penetration Testing", 
