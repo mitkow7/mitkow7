@@ -29,16 +29,16 @@ I'm an aspiring cybersecurity professional and Python developer with a strong fo
 
 ## 📂 My Projects
 
-### 🔒 [Keylogger](https://github.com/YourUsername/keylogger)
+### 🔒 [Keylogger](https://github.com/mitkow7/keylogger)
 A Python-based keylogger demonstrating endpoint surveillance capabilities for educational purposes. This project showcases fundamental red team concepts including:
 
-### ☔ [Umbrella-Reminder](https://github.com/YourUsername/umbrella-reminder)
+### ☔ [Umbrella-Reminder](https://github.com/mitkow7/umbrella-reminder)
 A weather monitoring application that sends notifications when rain is forecasted. While primarily a utility app, it demonstrates:
 
-### 💹 [Financial-Data-Retrieval-System](https://github.com/YourUsername/financial-data-retrieval-system)
+### 💹 [Financial-Data-Retrieval-System](https://github.com/mitkow7/financial-data-retrieval-system)
 A comprehensive tool for fetching, analyzing financial market data, incorporating security principles:
 
-### 🎮 [Tic-Tac-Toe](https://github.com/YourUsername/tic-tac-toe)
+### 🎮 [Tic-Tac-Toe](https://github.com/mitkow7/tic-tac-toe)
 A Python implementation of the classic game with an AI opponent, serving as a foundation for:
 
 ## 🔍 Red Team & CTF Work
