@@ -94,7 +94,7 @@ Financial data tool with security-focused design:
 
 <p align="center">
   <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white" />
-  <img src="https://img.shields.io/badge/TryHackMe%25-C11111?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  <img src="https://img.shields.io/badge/TryHackMe-25-C11111?style=for-the-badge&logo=tryhackme&logoColor=white" />
   <img src="https://img.shields.io/badge/CTFtime-FFD700?style=for-the-badge&logo=ctftime&logoColor=white" />
 </p>
 
