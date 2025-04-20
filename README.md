@@ -52,8 +52,8 @@ I'm an aspiring cybersecurity professional with a focus on offensive security, e
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mitkow7&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitkow7&layout=compact&theme=radical" />
 </p>
 
 <p align="center">
@@ -93,17 +93,10 @@ Financial data tool with security-focused design:
 ## 🧪 CTF Achievements
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HackTheBox-Rank_Pro_Hacker-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white" />
-  <img src="https://img.shields.io/badge/TryHackMe-Top_1%25-C11111?style=for-the-badge&logo=tryhackme&logoColor=white" />
-  <img src="https://img.shields.io/badge/CTFtime-Ranked_Team-FFD700?style=for-the-badge&logo=ctftime&logoColor=white" />
+  <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  <img src="https://img.shields.io/badge/TryHackMe-%25-C11111?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  <img src="https://img.shields.io/badge/CTFtime-FFD700?style=for-the-badge&logo=ctftime&logoColor=white" />
 </p>
-
-| Event | Position | Focus Area |
-|-------|----------|------------|
-| **DefCon CTF 2024** | Top 100 | Web Exploitation |
-| **HackTheBox Cyber Apocalypse** | Top 5% | Binary Exploitation |
-| **TryHackMe Advent of Cyber** | Completed | Various |
-| **SANS Holiday Hack Challenge** | Finalist | Network Analysis |
 
 ## 🦠 Vulnerable Machine Conquests
 
