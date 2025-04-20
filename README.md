@@ -41,13 +41,6 @@ A comprehensive tool for fetching, analyzing financial market data, incorporatin
 ### 🎮 [Tic-Tac-Toe](https://github.com/mitkow7/tic-tac-toe)
 A Python implementation of the classic game with an AI opponent, serving as a foundation for:
 
-## 🔍 Red Team & CTF Work
-
-- **[HTB Writeups](link)** - Detailed walkthroughs of HackTheBox machines (published post-retirement)
-- **[OSCP Prep Notes](link)** - Documentation of my offensive security certification preparation
-- **[Red Team Lab Setup](link)** - Guide for creating virtualized practice environments
-- **[CTF Challenge Solutions](link)** - Write-ups from various capture-the-flag competitions
-
 ## 🛡️ Ethical Hacking Toolkit
 
 - Custom reconnaissance scripts and automation tools
