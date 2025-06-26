@@ -5,6 +5,20 @@
 [![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-00C853?style=for-the-badge&logo=kali-linux&logoColor=white)](https://github.com/topics/ethical-hacking)
 [![Red Team](https://img.shields.io/badge/Red_Team-800000?style=for-the-badge&logo=hackaday&logoColor=white)](https://github.com/topics/red-team)
 [![CTF Player](https://img.shields.io/badge/CTF_Player-F1502F?style=for-the-badge&logo=counter-strike&logoColor=white)](https://github.com/topics/ctf)
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=api&logoColor=white)](https://restfulapi.net/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+
+
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/terminal.gif" alt="Terminal Coding GIF" width="500">
@@ -24,7 +38,9 @@ class EthicalHacker:
             "Penetration Testing", 
             "Exploit Development",
             "Social Engineering",
-            "Red Team Operations"
+            "Red Team Operations",
+            "Web Development",
+            "Scripting"
         ]
     
     def say_hi(self):
@@ -71,7 +87,7 @@ A Python-based keylogger demonstrating endpoint surveillance capabilities:
 - Process masking to avoid detection in task manager (In progress)
 
 ### ☔ [Umbrella-Reminder](https://github.com/mitkow7/umbrella-reminder)
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/APIs-00C7B7?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 
 Weather monitoring application showcasing API integration:
 - Weather API integration with secure authentication
