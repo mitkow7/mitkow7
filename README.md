@@ -18,12 +18,6 @@
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
 
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/terminal.gif" alt="Terminal Coding GIF" width="500">
-</p>
-
 ## 🕵️‍♂️ About Me
 
 ```python
@@ -174,9 +168,5 @@ graph TD
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote">
 </p>
 
-<p align="center">
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/mitkow7/count.svg" />
-</p>
 
 *"The quieter you become, the more you can hear."* - Kali Linux
